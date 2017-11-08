@@ -1,0 +1,7 @@
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" urn="urn:cts:greekLit:tlg0012.tlg002" xml:lang="grc" groupUrn="urn:cts:greekLit:tlg0012">
+ <ti:title xml:lang="eng">The Odyssey</ti:title>
+  <ti:edition urn="urn:cts:greekLit:tlg0012.tlg002.alpheios-text-grc1" workUrn="urn:cts:greekLit:tlg0012.tlg002">
+    <ti:label xml:lang="eng">Alpheios Enhanced Odyssey</ti:label>
+    <ti:description xml:lang="eng">Alpheios Enhanced Odyssey</ti:description>
+  </ti:edition>
+</ti:work>
