@@ -2,6 +2,6 @@
  <ti:title xml:lang="eng">Ajax</ti:title>
   <ti:edition urn="urn:cts:greekLit:tlg0011.tlg003.alpheios-text-grc1" workUrn="urn:cts:greekLit:tlg0011.tlg003">
     <ti:label xml:lang="eng">Alpheios Enhanced Ajax</ti:label>
-    <ti:description xml:lang="eng">Alpheios Enhanced Ajax</ti:description>
+    <ti:description xml:lang="eng">TEI with Syntax Diagrams</ti:description>
   </ti:edition>
 </ti:work>

@@ -1,0 +1,7 @@
+/data/tlg0020/__cts__.xml
+/data/tlg0020/tlg001/__cts__.xml
+/data/tlg0020/tlg001/tlg0020.tlg001.alpheios-text-grc1.xml
+/data/tlg0020/tlg002/__cts__.xml
+/data/tlg0020/tlg002/tlg0020.tlg002.alpheios-text-grc1.xml
+/data/tlg0020/tlg003/__cts__.xml
+/data/tlg0020/tlg003/tlg0020.tlg003.alpheios-text-grc1.xml
